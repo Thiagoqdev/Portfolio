@@ -1,0 +1,22 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.6rem;
+}
+
+.nome__cabecalho{
+    font-weight: 700;
+}
+.cabecalho {
+    margin: 2rem;
+}
+
+.cabecalho__link{
+    display: none;
+}
+
+#contato__email{
+    display: inline-block;
+    font-weight: 400;
+    font-size: 1.4rem;
+}
