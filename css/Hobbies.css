@@ -1,0 +1,29 @@
+.Hobbies{
+    padding-top: 6%;
+    background-color: rgb(52, 59, 59);
+}
+.Hobbies__title{
+    text-align: center;
+    font-size: 2.5rem;
+    padding: 6%;
+}
+
+.Hobbies__grid{
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.hobbies__box{
+    margin: 3rem;
+}
+
+.hobbies__img img{
+    width: 10rem;
+    height: auto;
+}
+
+.hobbies__name{
+    font-size: 1.7rem;
+    text-align: center;
+    padding-top: 1.5rem;
+}

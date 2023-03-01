@@ -1,3 +1,8 @@
+.sobre__mim{
+    padding-top: 6%;
+    background-color: rgb(52, 59, 59);
+}
+
 .sobre__mim h3{
     font-size: 2.5rem;
     margin-bottom: 0.5rem;
