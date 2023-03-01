@@ -1,23 +1,35 @@
 .qualificacao{
     display: flex;
     flex-direction: column;
-    background: #E5E5E5;;
+    margin:6%;
+}
+
+.sobre__mim{
+    padding-top: 6%;
+    background-color: rgb(52, 59, 59);
+}
+
+
+.foto__qualificacao{
+    border-radius: 50%;
+    width: 10rem;
+    height: auto;
+    margin-bottom: 2rem;
 }
 
 .qualificacao__texto{
     max-width: 100vw;
-    
 }
+
 .qualificacao__titulo{
     font-size: 3.25rem;
     text-align: justify;
     font-weight: 400;
-    font-family: Raleway;
     margin-bottom: 2rem;
 }
 
 .qualificacao__formacao{
-    font-size: 1.8rem;
+    font-size: 2rem;
 }
 
 .foto__qualificacao{
@@ -27,6 +39,9 @@
     margin-bottom: 2rem;
 }
 
+.qualificacao__img{
+    width: 2.5rem;
+}
 
 .cabecalho__link__redes{
     display: flex;

@@ -1,7 +1,17 @@
 :root{
     font-size: 62.5%;
-    font-family: Raleway;
-    background-color: #E5E5E5;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    background-color: rgb(75, 83, 87)
+}
+
+a:link, a:visited{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    text-decoration: underline;
 }
 
 .container{
